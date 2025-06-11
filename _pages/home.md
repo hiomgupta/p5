@@ -6,12 +6,50 @@ permalink: /
 ---
 
 ### Welcome!
+---
+title: "Home"
+layout: gridlay
+permalink: /
+---
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+# 👋 Welcome
+
+I’m **Prof. Sameer Sahasthrabuddhe**, Professor of Design at **IIT Gandhinagar**.
+
+This site is a portfolio of my work across design, research, filmmaking, and educational technology.
+
+---
+
+## 🧭 Domains of Work
+
+- 🎓 Educational Technology and MOOCs  
+- 🎬 Documentary Filmmaking and Visual Design  
+- 🧪 Research in EdTech and Active Learning  
+- 🧰 Design Consulting and Multimedia for Learning  
+- 🥁 Personal Interests: Tabla, Travel Writing
+
+---
+
+## 🌟 Featured Work
+
+- [Designing MOOCs for Indian learners – SWAYAM/NPTEL](#)
+- [Short films for science communication](#)
+- [Research publications in EdTech](#)
+- [Consulting projects with MHRD, IIT Bombay](#)
+
+---
+
+## 🏆 Awards & Recognition
+
+- National MOOC Coordinator Award – SWAYAM
+- Design Innovation Award – IIT Bombay
+- More coming soon...
+
+---
+
+> "Design is not just problem solving. It's also meaning making." – Prof. Sameer
+
+
 
 <div class="container">
 <div class="row">
