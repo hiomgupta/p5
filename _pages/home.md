@@ -6,13 +6,6 @@ permalink: /
 ---
 
 ### Welcome!
----
-title: "Home"
-layout: gridlay
-permalink: /
----
-
-# 👋 Welcome
 
 I’m **Prof. Sameer Sahasthrabuddhe**, Professor of Design at **IIT Gandhinagar**.
 
@@ -20,7 +13,7 @@ This site is a portfolio of my work across design, research, filmmaking, and edu
 
 ---
 
-## 🧭 Domains of Work
+### Domains of Work
 
 - 🎓 Educational Technology and MOOCs  
 - 🎬 Documentary Filmmaking and Visual Design  
@@ -30,7 +23,7 @@ This site is a portfolio of my work across design, research, filmmaking, and edu
 
 ---
 
-## 🌟 Featured Work
+### Featured Work
 
 - [Designing MOOCs for Indian learners – SWAYAM/NPTEL](#)
 - [Short films for science communication](#)
@@ -39,7 +32,7 @@ This site is a portfolio of my work across design, research, filmmaking, and edu
 
 ---
 
-## 🏆 Awards & Recognition
+### Awards & Recognition
 
 - National MOOC Coordinator Award – SWAYAM
 - Design Innovation Award – IIT Bombay
